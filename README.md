@@ -1,3 +1,5 @@
+Hello! This is my change to the README doc
+
 Project SER316
 
 # spring18project
